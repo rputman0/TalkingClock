@@ -1,4 +1,3 @@
-#A talking clock takes a 24-hour time and translates it into words.
 ##Input: An hour (0-23) followed by a colon followed by the minute (0-59).
 ##Output: The time in words, using 12-hour format followed by am or pm.
 
